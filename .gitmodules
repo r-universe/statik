@@ -8,28 +8,8 @@
 	url = https://github.com/statik/dora
 	shallow = true
 	registered = true
-[submodule "hugodown"]
-	path = hugodown
-	url = https://github.com/r-lib/hugodown
-	shallow = true
-	registered = false
 [submodule "rmarkdown"]
 	path = rmarkdown
 	url = https://github.com/rstudio/rmarkdown
-	shallow = true
-	registered = false
-[submodule "slugify"]
-	path = slugify
-	url = https://github.com/hrbrmstr/slugify
-	shallow = true
-	registered = false
-[submodule "vcr"]
-	path = vcr
-	url = https://github.com/ropensci/vcr
-	shallow = true
-	registered = false
-[submodule "xml2"]
-	path = xml2
-	url = https://github.com/r-lib/xml2
 	shallow = true
 	registered = false
