@@ -6,6 +6,12 @@
     "from": "goodpress"
   },
   {
+    "package": "rmarkdown",
+    "url": "https://github.com/rstudio/rmarkdown",
+    "via": ["dora"],
+    "from": "dora"
+  },
+  {
     "package": "slugify",
     "url": "https://github.com/hrbrmstr/slugify",
     "via": ["goodpress"],

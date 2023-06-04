@@ -13,6 +13,11 @@
 	url = https://github.com/r-lib/hugodown
 	shallow = true
 	registered = false
+[submodule "rmarkdown"]
+	path = rmarkdown
+	url = https://github.com/rstudio/rmarkdown
+	shallow = true
+	registered = false
 [submodule "slugify"]
 	path = slugify
 	url = https://github.com/hrbrmstr/slugify
