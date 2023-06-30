@@ -1,15 +1,11 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/statik/universe
-	shallow = true
 	branch = HEAD
 [submodule "dora"]
 	path = dora
 	url = https://github.com/statik/dora
-	shallow = true
-	registered = true
 [submodule "rmarkdown"]
 	path = rmarkdown
 	url = https://github.com/rstudio/rmarkdown
-	shallow = true
 	registered = false
