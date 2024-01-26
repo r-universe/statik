@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/statik/universe
+	url = https://github.com/statik/statik.r-universe.dev
 	branch = HEAD
 [submodule "dora"]
 	path = dora
